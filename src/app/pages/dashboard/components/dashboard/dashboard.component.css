@@ -1,0 +1,12 @@
+.container {
+    margin: 0px;
+  }
+  
+  .home {
+    position: relative;
+    width: 100%;
+  }
+
+  .main {
+    padding-top: 60px; /* Adjust based on navbar height */
+  }
